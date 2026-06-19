@@ -1,6 +1,6 @@
 # Hi, I’m Bryan Calderon
 
-**Data Analyst | Business Analytics | Financial & Risk Analytics**
+**Economic Research | Business & Financial Analytics | Python - SQL - R - BI**
 
 I’m a Data Analyst with a background in economics, econometrics, empirical research, and financial analysis. I work with Python, SQL, R, machine learning, and BI tools to analyze data, build models, create dashboards, and communicate insights for business decision-making.
 
