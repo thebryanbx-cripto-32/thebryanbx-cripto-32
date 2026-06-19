@@ -92,6 +92,6 @@ I’m open to opportunities in:
 
 ## Connect with Me
 
-- **LinkedIn:** [Bryan Calderon](https://www.linkedin.com/in/bryan-calder%C3%B3n-7444abbb/)
+- **LinkedIn:** [Bryan Calderon](www.linkedin.com/in/bryan-calderon-m-sc-data)
 - **GitHub:** [thebryanbx-cripto-32](https://github.com/thebryanbx-cripto-32)
 - **Email:** bryanc_na@hotmail.com
