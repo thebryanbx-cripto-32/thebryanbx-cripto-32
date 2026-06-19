@@ -82,6 +82,14 @@ I’m open to opportunities in:
 
 ---
 
+## Languages
+
+- Spanish: Native  
+- German: Fluent / C1  
+- English: Fluent
+
+---
+
 ## Connect with Me
 
 - **LinkedIn:** [Bryan Calderon](https://www.linkedin.com/in/bryan-calder%C3%B3n-7444abbb/)
