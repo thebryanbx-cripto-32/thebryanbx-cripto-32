@@ -85,7 +85,7 @@ I’m open to opportunities in:
 ## Languages
 
 - Spanish: Native  
-- German: Fluent / C1  
+- German: Fluent 
 - English: Fluent
 
 ---
