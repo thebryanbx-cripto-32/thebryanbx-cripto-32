@@ -4,7 +4,7 @@
 
 I’m a Data Analyst with a background in economics, econometrics, empirical research, and financial analysis. I work with Python, SQL, R, machine learning, and BI tools to analyze data, build models, create dashboards, and communicate insights for business decision-making.
 
-I’m particularly interested in applying data analytics to business, finance, risk, and strategy-related problems.
+I’m particularly interested in applying data analytics and data science to business, finance, risk, and strategy-related problems.
 
 ---
 
@@ -79,8 +79,6 @@ I’m open to opportunities in:
 - Risk Analytics  
 - Data Science / Machine Learning  
 - Business Intelligence  
-
-I’m especially interested in roles where I can combine analytical thinking, business understanding, and technical tools to support data-driven decisions.
 
 ---
 
